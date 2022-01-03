@@ -1,6 +1,10 @@
 # flutter_story_view
 
-A new Flutter project.
+
+https://user-images.githubusercontent.com/49102327/147939911-9173a4f9-7ad1-4af1-9d37-8f1e77cca587.mp4
+
+
+Flutter project.
 
 ## Getting Started
 
